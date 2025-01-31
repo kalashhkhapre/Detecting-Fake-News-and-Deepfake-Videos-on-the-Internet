@@ -4,7 +4,7 @@
 The rapid advancement of artificial intelligence has enabled the creation of deepfake videos and the spread of fake news, posing significant threats to information integrity. This project outlines a methodology for detecting deepfake videos and identifying fake news articles using AI-driven approaches.
 
 ## Problem Statement
-The internet is widely used to spread misinformation through fake news and AI-generated deepfake videos. Detecting and flagging such content is crucial to maintaining trust in digital platforms.
+Fake Narrative: Internet is used for spreading fake narrative by spreading fake news and deep fake videos (using AI). Suggest a technical solution (or algorithm) for flagging deep fake videos circulating on internet and also a technical solution for highlighting fake news.
 
 ## Proposed Technical Solutions
 ### 1. Deepfake Video Detection
